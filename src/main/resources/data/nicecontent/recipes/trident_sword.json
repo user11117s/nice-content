@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "item": "minecraft:trident"
+  },
+  "result": {
+    "item": "nicecontent:trident_sword",
+    "count": 2
+  }
+}

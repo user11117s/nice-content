@@ -1,0 +1,6 @@
+{
+  "parent": "nicecontent:item/grenade",
+  "textures": {
+    "layer0": "nicecontent:item/grenade"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.array64.nicecontent.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "nicecontent.refmap.json",
+  "mixins": [
+    "TridentMixin",
+    "SmithingMenuMixin",
+    "ICMenuMixin"
+  ],
+  "client": [],
+  "minVersion": "0.8"
+}

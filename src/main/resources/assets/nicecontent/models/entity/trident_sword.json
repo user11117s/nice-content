@@ -1,0 +1,6 @@
+{
+  "parent": "nicecontent:item/trident_sword",
+  "textures": {
+    "layer0": "nicecontent:item/trident_sword"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "323",
+    "212",
+    "323"
+  ],
+  "key": {
+    "1": {
+      "item": "nicecontent:gunpowder_block"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "nicecontent:grenade"
+  }
+}
